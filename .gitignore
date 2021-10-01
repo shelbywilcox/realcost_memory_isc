@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+data/
+data/raw_nii/
+scripts/old
+scripts/sub*
